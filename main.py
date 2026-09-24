@@ -1,2 +1,2 @@
 def setup_mantap():
-    print("Setting up Mantap...")
+    print("Setting up Mantap versi B...")
